@@ -1,4 +1,4 @@
-package dino.test.al.heap;
+package dino.test.sort.heap;
 
 /**
  * Created by Dino on 2016/7/2.

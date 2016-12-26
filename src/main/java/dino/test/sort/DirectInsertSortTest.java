@@ -1,4 +1,4 @@
-package dino.test.al;
+package dino.test.sort;
 
 import java.util.Arrays;
 
